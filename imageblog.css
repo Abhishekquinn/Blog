@@ -1,0 +1,14 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h1{
+	text-align: right;
+	font-family:Anton;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px #f1f1f1 solid;
+	border-right: 4px #f1f1f1 solid;
+	width: 30%;
+}
